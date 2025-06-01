@@ -1,0 +1,54 @@
+[33mcommit 089ceefd23f30247b73d931ef1390c70b4fe5b1a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtree[m[33m)[m
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Fri May 30 10:47:27 2025 +0530
+
+    nwe hello
+
+[33mcommit c48804c793e40f7db99fc70599bf411dd15abc3e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Fri May 30 10:39:43 2025 +0530
+
+    hey modified
+
+[33mcommit 0461474e21291f8277079356b9d3eebdc3f99110[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 822e233 2f36a55
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Fri May 30 10:32:09 2025 +0530
+
+    WIP on tree: 822e233 hello world
+
+[33mcommit 2f36a55b3b9b5ee4a29d09fe1972ae04b12e92ea[m
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Fri May 30 10:32:09 2025 +0530
+
+    index on tree: 822e233 hello world
+
+[33mcommit 822e233a5adcfca956c2b3b439e40b9883786fa7[m
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Fri May 30 09:53:15 2025 +0530
+
+    hello world
+
+[33mcommit b42d5b4366495bd7c2066491e076ba5fbabb64ca[m
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Fri May 30 09:45:25 2025 +0530
+
+    new mwssage
+
+[33mcommit 93ff0b903e4d3651d74586fa5d2ca372f8851716[m
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Fri May 30 09:36:06 2025 +0530
+
+    third case
+
+[33mcommit b6168bc42d59a9a66a8c47b016a99a437ae6cc71[m
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Wed May 28 08:28:39 2025 +0530
+
+    secon message
+
+[33mcommit 4c0374ef514ae0831a902cf8675626bd37c0445d[m
+Author: jamshidhrahman <jamshedjamshedrahman@gmail.com>
+Date:   Wed May 28 08:20:26 2025 +0530
+
+    initial commit
